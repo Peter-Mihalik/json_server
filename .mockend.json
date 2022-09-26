@@ -1,1 +1,7 @@
-[]
+[{
+    "id": 1,
+      "listName": "Skuska",
+      "task": false,
+      "nOfActive": 0,
+      "items": []
+}]
